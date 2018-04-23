@@ -1,0 +1,19 @@
+*{direction: rtl;
+    box-sizing: border-box;
+}
+
+.container{
+    margin-top: 10%;
+    display: rtl;
+    width: 33%;
+    margin: auto;
+    border: 2px solid;
+    text-align: center;
+}
+
+.a{
+    background-color: darkcyan;
+}
+p{
+    padding-bottom: 100px;
+}
